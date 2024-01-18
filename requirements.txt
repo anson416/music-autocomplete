@@ -1,0 +1,9 @@
+librosa
+mido
+numpy
+pretty_midi
+pydub
+pygame
+requests
+scipy
+pyaudio
